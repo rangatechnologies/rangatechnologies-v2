@@ -1,4 +1,3 @@
-import BlogData from "@/components/shared/blogs/BlogData";
 import BlogsItem from "@/components/shared/blogs/BlogsItem";
 import { fetchBlogs } from "@/lib/backend";
 import React from "react";
